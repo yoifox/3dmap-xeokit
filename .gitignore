@@ -1,0 +1,4 @@
+eye-in-the-sky/*
+node_modules/*
+public/xeokit-sdk/*
+objects-detection/models/*
